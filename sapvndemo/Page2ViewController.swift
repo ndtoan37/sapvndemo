@@ -1,5 +1,5 @@
 //
-//  HomeViewController.swift
+//  Page2ViewController.swift
 //  sapvndemo
 //
 //  Created by Nguyen, Toan on 2/8/18.
@@ -8,19 +8,12 @@
 
 import UIKit
 
-class HomeViewController: UIViewController {
+class Page2ViewController: UIViewController {
 
-    @IBOutlet weak var btn_voiceControl: UIButton!
-    
     override func viewDidLoad() {
         super.viewDidLoad()
 
         // Do any additional setup after loading the view.
-        btn_voiceControl.titleLabel?.minimumScaleFactor = 0.5
-        btn_voiceControl.titleLabel?.numberOfLines = 0
-        btn_voiceControl.titleLabel?.adjustsFontSizeToFitWidth = true
-        btn_voiceControl.titleLabel?.textAlignment = .center
-        btn_voiceControl.contentEdgeInsets = UIEdgeInsets(top: 15, left: 0, bottom: 15, right: 0)
     }
 
     override func didReceiveMemoryWarning() {

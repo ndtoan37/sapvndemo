@@ -10,25 +10,15 @@
 		1277F7611F8E66AF0060AF58 /* SAPLogo@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 1277F7601F8E66AC0060AF58 /* SAPLogo@2x.png */; };
 		128604DA1E55B41600C698B5 /* SAPCommon.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 128604D91E55B41600C698B5 /* SAPCommon.framework */; };
 		128604DB1E55B43B00C698B5 /* SAPCommon.framework in Embed Frameworks */ = {isa = PBXBuildFile; fileRef = 128604D91E55B41600C698B5 /* SAPCommon.framework */; settings = {ATTRIBUTES = (CodeSignOnCopy, RemoveHeadersOnCopy, ); }; };
-		128B53061F8E667000E64DF6 /* SnapshotViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 128B53051F8E667000E64DF6 /* SnapshotViewController.swift */; };
 		12D066CF1F4DDB0E0075EBA4 /* (null) in Resources */ = {isa = PBXBuildFile; };
 		12E07EF21E96851800460A94 /* CollectionType.swift in Sources */ = {isa = PBXBuildFile; fileRef = 12E07EF11E96851800460A94 /* CollectionType.swift */; };
 		12E84FE31F4ECC4A0061C99E /* SAPFioriFlows.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 12E84FE21F4ECC3E0061C99E /* SAPFioriFlows.framework */; };
 		12E84FE41F4ECC4A0061C99E /* SAPFioriFlows.framework in Embed Frameworks */ = {isa = PBXBuildFile; fileRef = 12E84FE21F4ECC3E0061C99E /* SAPFioriFlows.framework */; settings = {ATTRIBUTES = (CodeSignOnCopy, RemoveHeadersOnCopy, ); }; };
 		12E84FE51F4ECF220061C99E /* OnboardingManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 12E84FDE1F4EBD460061C99E /* OnboardingManager.swift */; };
-		1DBCBCD6EC26BCD09ECE5634 /* ACreditMemoReqItemPrcgElmnt.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = BF20BFAB086EDD1B23E5186E /* ACreditMemoReqItemPrcgElmnt.storyboard */; };
 		2B0785236804AED08A83F0EC /* ACreditMemoRequestType.swift in Sources */ = {isa = PBXBuildFile; fileRef = 12D10A13D3642F81643598DC /* ACreditMemoRequestType.swift */; };
-		2DE08053763EB580327105B7 /* ACreditMemoReqItemPartner.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1E0E8E871CEE9ECADE1D8442 /* ACreditMemoReqItemPartner.storyboard */; };
 		3032DCD9923F257A306052CE /* APICREDITMEMOREQUESTSRVEntitiesStaticResolver.swift in Sources */ = {isa = PBXBuildFile; fileRef = A6D326E75B7C6E50C6040657 /* APICREDITMEMOREQUESTSRVEntitiesStaticResolver.swift */; };
-		3B39A8CB1CDB17DB139BF346 /* ACreditMemoRequestItemMasterViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7DD30C16AABD07E0616426EB /* ACreditMemoRequestItemMasterViewController.swift */; };
 		47189D4DD9C42C10E28EA429 /* ACreditMemoReqItemPartnerType.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2CF46B59917D039EDDD9FC3A /* ACreditMemoReqItemPartnerType.swift */; };
-		49ECC65DCEB2E1BCC098C59A /* ACreditMemoReqPrcgElmnt.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8FF3AEC820331F7367394E1E /* ACreditMemoReqPrcgElmnt.storyboard */; };
-		4D4B493C069016BB50D4B8E4 /* ACreditMemoReqPartner.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0DD2E7E19C4481536F5DEB0A /* ACreditMemoReqPartner.storyboard */; };
 		58FE791B537F0CFAC891F0AB /* APICREDITMEMOREQUESTSRVEntitiesMetadataText.swift in Sources */ = {isa = PBXBuildFile; fileRef = D7F27ECC2903BA73302F24AE /* APICREDITMEMOREQUESTSRVEntitiesMetadataText.swift */; };
-		6546D756189D90BC7A6FBF2B /* ACreditMemoRequestItemDetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 85E8143BC635FCD8449CF623 /* ACreditMemoRequestItemDetailViewController.swift */; };
-		69AACB142FFD862B907ACE02 /* ACreditMemoRequestItem.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 179D2885E34714ADC37D8EC3 /* ACreditMemoRequestItem.storyboard */; };
-		74DAA8D41A5C3F7EE0FC9664 /* ACreditMemoRequestDetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D02A40AE6EADD0846815B6DC /* ACreditMemoRequestDetailViewController.swift */; };
-		74F8BDD045C9B7646A7ECE28 /* ACreditMemoRequestMasterViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = DA3BE345F08594AB55CD53DE /* ACreditMemoRequestMasterViewController.swift */; };
 		755533981F25FD330017A1BC /* SAPOfflineOData.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 755533971F25FD2A0017A1BC /* SAPOfflineOData.framework */; };
 		755533991F25FD330017A1BC /* SAPOfflineOData.framework in Embed Frameworks */ = {isa = PBXBuildFile; fileRef = 755533971F25FD2A0017A1BC /* SAPOfflineOData.framework */; settings = {ATTRIBUTES = (CodeSignOnCopy, RemoveHeadersOnCopy, ); }; };
 		756192211DBE1A99007F562C /* SAPOData.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 7561921A1DBE1A90007F562C /* SAPOData.framework */; };
@@ -37,7 +27,6 @@
 		7569DA541E5C717C00C5D751 /* SAPFoundation.framework in Embed Frameworks */ = {isa = PBXBuildFile; fileRef = 7569DA511E5C716A00C5D751 /* SAPFoundation.framework */; settings = {ATTRIBUTES = (CodeSignOnCopy, RemoveHeadersOnCopy, ); }; };
 		759BA2701E6821A7001C32BA /* SAPFiori.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 759BA26F1E6821A7001C32BA /* SAPFiori.framework */; };
 		759BA2721E6821AF001C32BA /* SAPFiori.framework in Embed Frameworks */ = {isa = PBXBuildFile; fileRef = 759BA26F1E6821A7001C32BA /* SAPFiori.framework */; settings = {ATTRIBUTES = (CodeSignOnCopy, RemoveHeadersOnCopy, ); }; };
-		75AC42D41DAF824D00B445FF /* CollectionsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 75AC42CE1DAF824D00B445FF /* CollectionsViewController.swift */; };
 		770F23AD1D0EDAB89D6635A8 /* APICREDITMEMOREQUESTSRVEntities.swift in Sources */ = {isa = PBXBuildFile; fileRef = 83A7FD888742306B4D27CA93 /* APICREDITMEMOREQUESTSRVEntities.swift */; };
 		7A1315B91D4B982000A5DA56 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7A1315B81D4B982000A5DA56 /* AppDelegate.swift */; };
 		7A1315C21D4B982000A5DA56 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 7A1315C11D4B982000A5DA56 /* Assets.xcassets */; };
@@ -46,13 +35,8 @@
 		7A26CA1C1F31BA8800B156B6 /* CellCreationHelper.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7A26CA1B1F31BA8800B156B6 /* CellCreationHelper.swift */; };
 		7A9F6FF61F3883D3000A1815 /* SAPFioriLoadingIndicator.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7A9F6FF51F3883D3000A1815 /* SAPFioriLoadingIndicator.swift */; };
 		8770B82631C1565BD52A21B3 /* ACreditMemoReqPrcgElmntType.swift in Sources */ = {isa = PBXBuildFile; fileRef = 104D2EC7E29BED597877D864 /* ACreditMemoReqPrcgElmntType.swift */; };
-		8C324FFA4BBF4A76A74014E9 /* ACreditMemoReqItemPartnerMasterViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A20885743FABB397FF6D9F23 /* ACreditMemoReqItemPartnerMasterViewController.swift */; };
 		8F8B641910A5376B64B89418 /* APICREDITMEMOREQUESTSRVEntitiesFactory.swift in Sources */ = {isa = PBXBuildFile; fileRef = A9AFDCDD72A363640EA2FB46 /* APICREDITMEMOREQUESTSRVEntitiesFactory.swift */; };
-		9D050CDE4A426AE49FCFCBE0 /* ACreditMemoRequest.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A7256ADEA005D80D5DAE7346 /* ACreditMemoRequest.storyboard */; };
 		9E9AF1C2D315D9BADA3A2551 /* ACreditMemoReqPartnerType.swift in Sources */ = {isa = PBXBuildFile; fileRef = 14E53E38CB924478DE198127 /* ACreditMemoReqPartnerType.swift */; };
-		9FEF39AFD324AEF243E45F13 /* ACreditMemoReqPrcgElmntDetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B147A812ECB95A7FC708FDE5 /* ACreditMemoReqPrcgElmntDetailViewController.swift */; };
-		BF05806925BF0BFEDF472304 /* ACreditMemoReqPrcgElmntMasterViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 98042B62EC25FDF05FE35F1C /* ACreditMemoReqPrcgElmntMasterViewController.swift */; };
-		C6134F1B23B7E599E5B8C325 /* ACreditMemoReqItemPartnerDetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CB443A23317F6E85A4BEF661 /* ACreditMemoReqItemPartnerDetailViewController.swift */; };
 		C7AB09C5D4F8D524234C3532 /* ACreditMemoReqItemPrcgElmntType.swift in Sources */ = {isa = PBXBuildFile; fileRef = 628DFB3BA2EA073D723AA30C /* ACreditMemoReqItemPrcgElmntType.swift */; };
 		CBCA7A991E3778A9001AF49E /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = CBCA7A9B1E3778A9001AF49E /* Main.storyboard */; };
 		D342DC6B0E4712E6BE6EE963 /* APICREDITMEMOREQUESTSRVEntitiesMetadata.swift in Sources */ = {isa = PBXBuildFile; fileRef = EB8B49A9F79282A52ECEFED0 /* APICREDITMEMOREQUESTSRVEntitiesMetadata.swift */; };
@@ -60,10 +44,9 @@
 		DBDAE54C9286B7876E28BE9B /* APICREDITMEMOREQUESTSRVEntitiesMetadataParser.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02FBA8EB95778FDB8F0D2A92 /* APICREDITMEMOREQUESTSRVEntitiesMetadataParser.swift */; };
 		DCE06F94B54BBECF44D069B1 /* ACreditMemoRequestItemType.swift in Sources */ = {isa = PBXBuildFile; fileRef = CB995680F14C2884D066D3DC /* ACreditMemoRequestItemType.swift */; };
 		E8038893202C28FC008C0800 /* HomeViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E8038892202C28FC008C0800 /* HomeViewController.swift */; };
-		F28F086C13482D27351132C0 /* ACreditMemoReqItemPrcgElmntDetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C8D3546ED1A9D1E4DA2EC4DE /* ACreditMemoReqItemPrcgElmntDetailViewController.swift */; };
-		F94E678B8768737FCA4BC519 /* ACreditMemoReqItemPrcgElmntMasterViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 27B94129F6B5B3C3AF401147 /* ACreditMemoReqItemPrcgElmntMasterViewController.swift */; };
-		F9BC23DA8A3CDCC7A0377165 /* ACreditMemoReqPartnerDetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1C28996311B8EA73BBB7C650 /* ACreditMemoReqPartnerDetailViewController.swift */; };
-		FE4912FA55C3059F9EBBFC91 /* ACreditMemoReqPartnerMasterViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 64E9C2374F93CEFEDC2961EE /* ACreditMemoReqPartnerMasterViewController.swift */; };
+		E8BE943C202C314B008C1C02 /* SnapshotViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E8BE943B202C314B008C1C02 /* SnapshotViewController.swift */; };
+		E8BE943F202C35E0008C1C02 /* VoiceControlViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E8BE943E202C35E0008C1C02 /* VoiceControlViewController.swift */; };
+		E8BE9441202C387F008C1C02 /* Page2ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E8BE9440202C387F008C1C02 /* Page2ViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -90,24 +73,17 @@
 		104D2EC7E29BED597877D864 /* ACreditMemoReqPrcgElmntType.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = ACreditMemoReqPrcgElmntType.swift; path = "Proxy Classes/com.sap.sapvn.sapvndemo/public/ACreditMemoReqPrcgElmntType.swift"; sourceTree = "<group>"; };
 		1277F7601F8E66AC0060AF58 /* SAPLogo@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "SAPLogo@2x.png"; sourceTree = "<group>"; };
 		128604D91E55B41600C698B5 /* SAPCommon.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = SAPCommon.framework; sourceTree = "<group>"; };
-		128B53051F8E667000E64DF6 /* SnapshotViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SnapshotViewController.swift; sourceTree = "<group>"; };
 		12D10A13D3642F81643598DC /* ACreditMemoRequestType.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = ACreditMemoRequestType.swift; path = "Proxy Classes/com.sap.sapvn.sapvndemo/public/ACreditMemoRequestType.swift"; sourceTree = "<group>"; };
 		12E07EF11E96851800460A94 /* CollectionType.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CollectionType.swift; sourceTree = "<group>"; };
 		12E84FDE1F4EBD460061C99E /* OnboardingManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OnboardingManager.swift; sourceTree = "<group>"; };
 		12E84FE21F4ECC3E0061C99E /* SAPFioriFlows.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = SAPFioriFlows.framework; sourceTree = "<group>"; };
 		14E53E38CB924478DE198127 /* ACreditMemoReqPartnerType.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = ACreditMemoReqPartnerType.swift; path = "Proxy Classes/com.sap.sapvn.sapvndemo/public/ACreditMemoReqPartnerType.swift"; sourceTree = "<group>"; };
-		1C28996311B8EA73BBB7C650 /* ACreditMemoReqPartnerDetailViewController.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = ACreditMemoReqPartnerDetailViewController.swift; path = ACreditMemoReqPartner/ACreditMemoReqPartnerDetailViewController.swift; sourceTree = "<group>"; };
-		271D114387DD72D98BF280B4 /* Base */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/ACreditMemoReqItemPrcgElmnt.storyboard; sourceTree = "<group>"; };
-		27B94129F6B5B3C3AF401147 /* ACreditMemoReqItemPrcgElmntMasterViewController.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = ACreditMemoReqItemPrcgElmntMasterViewController.swift; path = ACreditMemoReqItemPrcgElmnt/ACreditMemoReqItemPrcgElmntMasterViewController.swift; sourceTree = "<group>"; };
 		2CF46B59917D039EDDD9FC3A /* ACreditMemoReqItemPartnerType.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = ACreditMemoReqItemPartnerType.swift; path = "Proxy Classes/com.sap.sapvn.sapvndemo/public/ACreditMemoReqItemPartnerType.swift"; sourceTree = "<group>"; };
-		2D53A6B35D6A76BA2848427B /* Base */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/ACreditMemoReqItemPartner.storyboard; sourceTree = "<group>"; };
 		628DFB3BA2EA073D723AA30C /* ACreditMemoReqItemPrcgElmntType.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = ACreditMemoReqItemPrcgElmntType.swift; path = "Proxy Classes/com.sap.sapvn.sapvndemo/public/ACreditMemoReqItemPrcgElmntType.swift"; sourceTree = "<group>"; };
-		64E9C2374F93CEFEDC2961EE /* ACreditMemoReqPartnerMasterViewController.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = ACreditMemoReqPartnerMasterViewController.swift; path = ACreditMemoReqPartner/ACreditMemoReqPartnerMasterViewController.swift; sourceTree = "<group>"; };
 		755533971F25FD2A0017A1BC /* SAPOfflineOData.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = SAPOfflineOData.framework; sourceTree = "<group>"; };
 		7561921A1DBE1A90007F562C /* SAPOData.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = SAPOData.framework; sourceTree = "<group>"; };
 		7569DA511E5C716A00C5D751 /* SAPFoundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = SAPFoundation.framework; sourceTree = "<group>"; };
 		759BA26F1E6821A7001C32BA /* SAPFiori.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = SAPFiori.framework; sourceTree = "<group>"; };
-		75AC42CE1DAF824D00B445FF /* CollectionsViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CollectionsViewController.swift; sourceTree = "<group>"; };
 		7A1315B51D4B982000A5DA56 /* sapvndemo.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = sapvndemo.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		7A1315B81D4B982000A5DA56 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		7A1315C11D4B982000A5DA56 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
@@ -116,29 +92,19 @@
 		7A16F06C1FD1B3C700D2FABD /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		7A26CA1B1F31BA8800B156B6 /* CellCreationHelper.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CellCreationHelper.swift; sourceTree = "<group>"; };
 		7A9F6FF51F3883D3000A1815 /* SAPFioriLoadingIndicator.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SAPFioriLoadingIndicator.swift; sourceTree = "<group>"; };
-		7DD30C16AABD07E0616426EB /* ACreditMemoRequestItemMasterViewController.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = ACreditMemoRequestItemMasterViewController.swift; path = ACreditMemoRequestItem/ACreditMemoRequestItemMasterViewController.swift; sourceTree = "<group>"; };
 		83A7FD888742306B4D27CA93 /* APICREDITMEMOREQUESTSRVEntities.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = APICREDITMEMOREQUESTSRVEntities.swift; path = "Proxy Classes/com.sap.sapvn.sapvndemo/public/APICREDITMEMOREQUESTSRVEntities.swift"; sourceTree = "<group>"; };
-		85E8143BC635FCD8449CF623 /* ACreditMemoRequestItemDetailViewController.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = ACreditMemoRequestItemDetailViewController.swift; path = ACreditMemoRequestItem/ACreditMemoRequestItemDetailViewController.swift; sourceTree = "<group>"; };
-		98042B62EC25FDF05FE35F1C /* ACreditMemoReqPrcgElmntMasterViewController.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = ACreditMemoReqPrcgElmntMasterViewController.swift; path = ACreditMemoReqPrcgElmnt/ACreditMemoReqPrcgElmntMasterViewController.swift; sourceTree = "<group>"; };
-		A20885743FABB397FF6D9F23 /* ACreditMemoReqItemPartnerMasterViewController.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = ACreditMemoReqItemPartnerMasterViewController.swift; path = ACreditMemoReqItemPartner/ACreditMemoReqItemPartnerMasterViewController.swift; sourceTree = "<group>"; };
 		A6D326E75B7C6E50C6040657 /* APICREDITMEMOREQUESTSRVEntitiesStaticResolver.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = APICREDITMEMOREQUESTSRVEntitiesStaticResolver.swift; path = "Proxy Classes/com.sap.sapvn.sapvndemo/internal/APICREDITMEMOREQUESTSRVEntitiesStaticResolver.swift"; sourceTree = "<group>"; };
 		A9AFDCDD72A363640EA2FB46 /* APICREDITMEMOREQUESTSRVEntitiesFactory.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = APICREDITMEMOREQUESTSRVEntitiesFactory.swift; path = "Proxy Classes/com.sap.sapvn.sapvndemo/internal/APICREDITMEMOREQUESTSRVEntitiesFactory.swift"; sourceTree = "<group>"; };
-		AB6E3E4384DF276C0F3404F2 /* Base */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/ACreditMemoReqPartner.storyboard; sourceTree = "<group>"; };
-		B147A812ECB95A7FC708FDE5 /* ACreditMemoReqPrcgElmntDetailViewController.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = ACreditMemoReqPrcgElmntDetailViewController.swift; path = ACreditMemoReqPrcgElmnt/ACreditMemoReqPrcgElmntDetailViewController.swift; sourceTree = "<group>"; };
-		B405767896ABA580DA9D3CD3 /* Base */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/ACreditMemoRequestItem.storyboard; sourceTree = "<group>"; };
-		C8D3546ED1A9D1E4DA2EC4DE /* ACreditMemoReqItemPrcgElmntDetailViewController.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = ACreditMemoReqItemPrcgElmntDetailViewController.swift; path = ACreditMemoReqItemPrcgElmnt/ACreditMemoReqItemPrcgElmntDetailViewController.swift; sourceTree = "<group>"; };
-		CB443A23317F6E85A4BEF661 /* ACreditMemoReqItemPartnerDetailViewController.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = ACreditMemoReqItemPartnerDetailViewController.swift; path = ACreditMemoReqItemPartner/ACreditMemoReqItemPartnerDetailViewController.swift; sourceTree = "<group>"; };
 		CB909D801E38CA8800218154 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		CB995680F14C2884D066D3DC /* ACreditMemoRequestItemType.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = ACreditMemoRequestItemType.swift; path = "Proxy Classes/com.sap.sapvn.sapvndemo/public/ACreditMemoRequestItemType.swift"; sourceTree = "<group>"; };
-		D02A40AE6EADD0846815B6DC /* ACreditMemoRequestDetailViewController.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = ACreditMemoRequestDetailViewController.swift; path = ACreditMemoRequest/ACreditMemoRequestDetailViewController.swift; sourceTree = "<group>"; };
 		D0D2C5BC5CD8EF8C36837AFD /* APICREDITMEMOREQUESTSRVEntitiesMetadataChanges.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = APICREDITMEMOREQUESTSRVEntitiesMetadataChanges.swift; path = "Proxy Classes/com.sap.sapvn.sapvndemo/internal/APICREDITMEMOREQUESTSRVEntitiesMetadataChanges.swift"; sourceTree = "<group>"; };
 		D7F27ECC2903BA73302F24AE /* APICREDITMEMOREQUESTSRVEntitiesMetadataText.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = APICREDITMEMOREQUESTSRVEntitiesMetadataText.swift; path = "Proxy Classes/com.sap.sapvn.sapvndemo/internal/APICREDITMEMOREQUESTSRVEntitiesMetadataText.swift"; sourceTree = "<group>"; };
-		DA3BE345F08594AB55CD53DE /* ACreditMemoRequestMasterViewController.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = ACreditMemoRequestMasterViewController.swift; path = ACreditMemoRequest/ACreditMemoRequestMasterViewController.swift; sourceTree = "<group>"; };
-		DBAD9E299C63B804F8822063 /* Base */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/ACreditMemoRequest.storyboard; sourceTree = "<group>"; };
 		E8038891202C26CA008C0800 /* sapvndemo.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = sapvndemo.entitlements; sourceTree = "<group>"; };
 		E8038892202C28FC008C0800 /* HomeViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeViewController.swift; sourceTree = "<group>"; };
+		E8BE943B202C314B008C1C02 /* SnapshotViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SnapshotViewController.swift; sourceTree = "<group>"; };
+		E8BE943E202C35E0008C1C02 /* VoiceControlViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VoiceControlViewController.swift; sourceTree = "<group>"; };
+		E8BE9440202C387F008C1C02 /* Page2ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Page2ViewController.swift; sourceTree = "<group>"; };
 		EB8B49A9F79282A52ECEFED0 /* APICREDITMEMOREQUESTSRVEntitiesMetadata.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = APICREDITMEMOREQUESTSRVEntitiesMetadata.swift; path = "Proxy Classes/com.sap.sapvn.sapvndemo/public/APICREDITMEMOREQUESTSRVEntitiesMetadata.swift"; sourceTree = "<group>"; };
-		F6E6D4091C196F20D090E672 /* Base */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/ACreditMemoReqPrcgElmnt.storyboard; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -158,16 +124,6 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		117EA363289007E3E71AA245 /* ACreditMemoReqItemPartner */ = {
-			isa = PBXGroup;
-			children = (
-				1E0E8E871CEE9ECADE1D8442 /* ACreditMemoReqItemPartner.storyboard */,
-				A20885743FABB397FF6D9F23 /* ACreditMemoReqItemPartnerMasterViewController.swift */,
-				CB443A23317F6E85A4BEF661 /* ACreditMemoReqItemPartnerDetailViewController.swift */,
-			);
-			name = ACreditMemoReqItemPartner;
-			sourceTree = "<group>";
-		};
 		12D066CB1F4DDAE40075EBA4 /* Onboarding */ = {
 			isa = PBXGroup;
 			children = (
@@ -223,14 +179,8 @@
 		75AC42C81DAF80C000B445FF /* ViewControllers */ = {
 			isa = PBXGroup;
 			children = (
-				75AC42CE1DAF824D00B445FF /* CollectionsViewController.swift */,
-				128B53051F8E667000E64DF6 /* SnapshotViewController.swift */,
-				9C11BF3D6E3184C4E0945A27 /* ACreditMemoReqPrcgElmnt */,
-				92F80A07771DEA78A9544D5F /* ACreditMemoRequestItem */,
-				117EA363289007E3E71AA245 /* ACreditMemoReqItemPartner */,
-				C9E66A084000B412B2B75492 /* ACreditMemoRequest */,
-				BC7A3EE5C729A66AC07A7F8E /* ACreditMemoReqItemPrcgElmnt */,
-				EA9EBDABFB481764A3B459FF /* ACreditMemoReqPartner */,
+				E8BE943D202C35A2008C1C02 /* Voice Control */,
+				E8BE943B202C314B008C1C02 /* SnapshotViewController.swift */,
 				E8038892202C28FC008C0800 /* HomeViewController.swift */,
 			);
 			name = ViewControllers;
@@ -295,54 +245,13 @@
 			name = Frameworks;
 			sourceTree = "<group>";
 		};
-		92F80A07771DEA78A9544D5F /* ACreditMemoRequestItem */ = {
+		E8BE943D202C35A2008C1C02 /* Voice Control */ = {
 			isa = PBXGroup;
 			children = (
-				179D2885E34714ADC37D8EC3 /* ACreditMemoRequestItem.storyboard */,
-				7DD30C16AABD07E0616426EB /* ACreditMemoRequestItemMasterViewController.swift */,
-				85E8143BC635FCD8449CF623 /* ACreditMemoRequestItemDetailViewController.swift */,
+				E8BE943E202C35E0008C1C02 /* VoiceControlViewController.swift */,
+				E8BE9440202C387F008C1C02 /* Page2ViewController.swift */,
 			);
-			name = ACreditMemoRequestItem;
-			sourceTree = "<group>";
-		};
-		9C11BF3D6E3184C4E0945A27 /* ACreditMemoReqPrcgElmnt */ = {
-			isa = PBXGroup;
-			children = (
-				8FF3AEC820331F7367394E1E /* ACreditMemoReqPrcgElmnt.storyboard */,
-				98042B62EC25FDF05FE35F1C /* ACreditMemoReqPrcgElmntMasterViewController.swift */,
-				B147A812ECB95A7FC708FDE5 /* ACreditMemoReqPrcgElmntDetailViewController.swift */,
-			);
-			name = ACreditMemoReqPrcgElmnt;
-			sourceTree = "<group>";
-		};
-		BC7A3EE5C729A66AC07A7F8E /* ACreditMemoReqItemPrcgElmnt */ = {
-			isa = PBXGroup;
-			children = (
-				BF20BFAB086EDD1B23E5186E /* ACreditMemoReqItemPrcgElmnt.storyboard */,
-				27B94129F6B5B3C3AF401147 /* ACreditMemoReqItemPrcgElmntMasterViewController.swift */,
-				C8D3546ED1A9D1E4DA2EC4DE /* ACreditMemoReqItemPrcgElmntDetailViewController.swift */,
-			);
-			name = ACreditMemoReqItemPrcgElmnt;
-			sourceTree = "<group>";
-		};
-		C9E66A084000B412B2B75492 /* ACreditMemoRequest */ = {
-			isa = PBXGroup;
-			children = (
-				A7256ADEA005D80D5DAE7346 /* ACreditMemoRequest.storyboard */,
-				DA3BE345F08594AB55CD53DE /* ACreditMemoRequestMasterViewController.swift */,
-				D02A40AE6EADD0846815B6DC /* ACreditMemoRequestDetailViewController.swift */,
-			);
-			name = ACreditMemoRequest;
-			sourceTree = "<group>";
-		};
-		EA9EBDABFB481764A3B459FF /* ACreditMemoReqPartner */ = {
-			isa = PBXGroup;
-			children = (
-				0DD2E7E19C4481536F5DEB0A /* ACreditMemoReqPartner.storyboard */,
-				64E9C2374F93CEFEDC2961EE /* ACreditMemoReqPartnerMasterViewController.swift */,
-				1C28996311B8EA73BBB7C650 /* ACreditMemoReqPartnerDetailViewController.swift */,
-			);
-			name = ACreditMemoReqPartner;
+			name = "Voice Control";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -418,12 +327,6 @@
 				7A1315C21D4B982000A5DA56 /* Assets.xcassets in Resources */,
 				CBCA7A991E3778A9001AF49E /* Main.storyboard in Resources */,
 				1277F7611F8E66AF0060AF58 /* SAPLogo@2x.png in Resources */,
-				49ECC65DCEB2E1BCC098C59A /* ACreditMemoReqPrcgElmnt.storyboard in Resources */,
-				69AACB142FFD862B907ACE02 /* ACreditMemoRequestItem.storyboard in Resources */,
-				2DE08053763EB580327105B7 /* ACreditMemoReqItemPartner.storyboard in Resources */,
-				9D050CDE4A426AE49FCFCBE0 /* ACreditMemoRequest.storyboard in Resources */,
-				1DBCBCD6EC26BCD09ECE5634 /* ACreditMemoReqItemPrcgElmnt.storyboard in Resources */,
-				4D4B493C069016BB50D4B8E4 /* ACreditMemoReqPartner.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -434,105 +337,40 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				128B53061F8E667000E64DF6 /* SnapshotViewController.swift in Sources */,
 				12E84FE51F4ECF220061C99E /* OnboardingManager.swift in Sources */,
 				7A9F6FF61F3883D3000A1815 /* SAPFioriLoadingIndicator.swift in Sources */,
 				7A26CA1C1F31BA8800B156B6 /* CellCreationHelper.swift in Sources */,
 				12E07EF21E96851800460A94 /* CollectionType.swift in Sources */,
-				75AC42D41DAF824D00B445FF /* CollectionsViewController.swift in Sources */,
 				7A1315B91D4B982000A5DA56 /* AppDelegate.swift in Sources */,
 				3032DCD9923F257A306052CE /* APICREDITMEMOREQUESTSRVEntitiesStaticResolver.swift in Sources */,
+				E8BE943F202C35E0008C1C02 /* VoiceControlViewController.swift in Sources */,
 				8F8B641910A5376B64B89418 /* APICREDITMEMOREQUESTSRVEntitiesFactory.swift in Sources */,
 				58FE791B537F0CFAC891F0AB /* APICREDITMEMOREQUESTSRVEntitiesMetadataText.swift in Sources */,
 				D79752CE04A1A2330B65CD7C /* APICREDITMEMOREQUESTSRVEntitiesMetadataChanges.swift in Sources */,
 				DBDAE54C9286B7876E28BE9B /* APICREDITMEMOREQUESTSRVEntitiesMetadataParser.swift in Sources */,
+				E8BE943C202C314B008C1C02 /* SnapshotViewController.swift in Sources */,
 				8770B82631C1565BD52A21B3 /* ACreditMemoReqPrcgElmntType.swift in Sources */,
 				D342DC6B0E4712E6BE6EE963 /* APICREDITMEMOREQUESTSRVEntitiesMetadata.swift in Sources */,
+				E8BE9441202C387F008C1C02 /* Page2ViewController.swift in Sources */,
 				9E9AF1C2D315D9BADA3A2551 /* ACreditMemoReqPartnerType.swift in Sources */,
 				DCE06F94B54BBECF44D069B1 /* ACreditMemoRequestItemType.swift in Sources */,
 				770F23AD1D0EDAB89D6635A8 /* APICREDITMEMOREQUESTSRVEntities.swift in Sources */,
 				C7AB09C5D4F8D524234C3532 /* ACreditMemoReqItemPrcgElmntType.swift in Sources */,
 				47189D4DD9C42C10E28EA429 /* ACreditMemoReqItemPartnerType.swift in Sources */,
 				2B0785236804AED08A83F0EC /* ACreditMemoRequestType.swift in Sources */,
-				BF05806925BF0BFEDF472304 /* ACreditMemoReqPrcgElmntMasterViewController.swift in Sources */,
-				9FEF39AFD324AEF243E45F13 /* ACreditMemoReqPrcgElmntDetailViewController.swift in Sources */,
-				3B39A8CB1CDB17DB139BF346 /* ACreditMemoRequestItemMasterViewController.swift in Sources */,
-				6546D756189D90BC7A6FBF2B /* ACreditMemoRequestItemDetailViewController.swift in Sources */,
-				8C324FFA4BBF4A76A74014E9 /* ACreditMemoReqItemPartnerMasterViewController.swift in Sources */,
-				C6134F1B23B7E599E5B8C325 /* ACreditMemoReqItemPartnerDetailViewController.swift in Sources */,
-				74F8BDD045C9B7646A7ECE28 /* ACreditMemoRequestMasterViewController.swift in Sources */,
-				74DAA8D41A5C3F7EE0FC9664 /* ACreditMemoRequestDetailViewController.swift in Sources */,
-				F94E678B8768737FCA4BC519 /* ACreditMemoReqItemPrcgElmntMasterViewController.swift in Sources */,
 				E8038893202C28FC008C0800 /* HomeViewController.swift in Sources */,
-				F28F086C13482D27351132C0 /* ACreditMemoReqItemPrcgElmntDetailViewController.swift in Sources */,
-				FE4912FA55C3059F9EBBFC91 /* ACreditMemoReqPartnerMasterViewController.swift in Sources */,
-				F9BC23DA8A3CDCC7A0377165 /* ACreditMemoReqPartnerDetailViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXVariantGroup section */
-		0DD2E7E19C4481536F5DEB0A /* ACreditMemoReqPartner.storyboard */ = {
-			isa = PBXVariantGroup;
-			children = (
-				AB6E3E4384DF276C0F3404F2 /* Base */,
-			);
-			name = ACreditMemoReqPartner.storyboard;
-			path = ACreditMemoReqPartner;
-			sourceTree = "<group>";
-		};
-		179D2885E34714ADC37D8EC3 /* ACreditMemoRequestItem.storyboard */ = {
-			isa = PBXVariantGroup;
-			children = (
-				B405767896ABA580DA9D3CD3 /* Base */,
-			);
-			name = ACreditMemoRequestItem.storyboard;
-			path = ACreditMemoRequestItem;
-			sourceTree = "<group>";
-		};
-		1E0E8E871CEE9ECADE1D8442 /* ACreditMemoReqItemPartner.storyboard */ = {
-			isa = PBXVariantGroup;
-			children = (
-				2D53A6B35D6A76BA2848427B /* Base */,
-			);
-			name = ACreditMemoReqItemPartner.storyboard;
-			path = ACreditMemoReqItemPartner;
-			sourceTree = "<group>";
-		};
 		7A1315C31D4B982000A5DA56 /* LaunchScreen.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
 				7A1315C41D4B982000A5DA56 /* Base */,
 			);
 			name = LaunchScreen.storyboard;
-			sourceTree = "<group>";
-		};
-		8FF3AEC820331F7367394E1E /* ACreditMemoReqPrcgElmnt.storyboard */ = {
-			isa = PBXVariantGroup;
-			children = (
-				F6E6D4091C196F20D090E672 /* Base */,
-			);
-			name = ACreditMemoReqPrcgElmnt.storyboard;
-			path = ACreditMemoReqPrcgElmnt;
-			sourceTree = "<group>";
-		};
-		A7256ADEA005D80D5DAE7346 /* ACreditMemoRequest.storyboard */ = {
-			isa = PBXVariantGroup;
-			children = (
-				DBAD9E299C63B804F8822063 /* Base */,
-			);
-			name = ACreditMemoRequest.storyboard;
-			path = ACreditMemoRequest;
-			sourceTree = "<group>";
-		};
-		BF20BFAB086EDD1B23E5186E /* ACreditMemoReqItemPrcgElmnt.storyboard */ = {
-			isa = PBXVariantGroup;
-			children = (
-				271D114387DD72D98BF280B4 /* Base */,
-			);
-			name = ACreditMemoReqItemPrcgElmnt.storyboard;
-			path = ACreditMemoReqItemPrcgElmnt;
 			sourceTree = "<group>";
 		};
 		CBCA7A9B1E3778A9001AF49E /* Main.storyboard */ = {
